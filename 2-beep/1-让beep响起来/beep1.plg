@@ -1,0 +1,26 @@
+<html>
+<body>
+<pre>
+<h1>礦ision Build Log</h1>
+<h2>Project:</h2>
+D:\C51单片机资料\普中-2&普中-3&普中-4开发板资料\8-自己的试验\2-beep\1-让beep响起来\beep1.uvproj
+Project File Date:  02/13/2023
+
+<h2>Output:</h2>
+Build target 'Target 1'
+assembling STARTUP.A51...
+compiling main.c...
+linking...
+Program Size: data=9.0 xdata=0 code=103
+creating hex file from "beep1"...
+"beep1" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+compiling main.c...
+linking...
+Program Size: data=9.0 xdata=0 code=103
+creating hex file from "beep1"...
+"beep1" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+compiling main.c...
+MAIN.C(26): error C141: syntax error near '='
+Target not created

@@ -1,0 +1,4 @@
+"STARTUP.obj",
+"main.obj" 
+TO "beep1" 
+RAMSIZE(256) 
